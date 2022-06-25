@@ -4,7 +4,6 @@
   ## Table of Contents:
   - ## [User Stories](#project)
   - ## [Installation](#installation) 
-  - ## [Usage](#usage)
   - ## [Contribution](#collaborators)
   - ## [Technologies](#tools)
   - ## [Video](#collaborators)
@@ -61,9 +60,7 @@ The following images show the web application's appearance and functionality:
 
 https://note-taker-edwin.herokuapp.com/
   
-## Usage
 
-To use the code you just have to run `node .\index.js` in your terminal.
   
     
   ## Collaborators:
